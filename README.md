@@ -47,6 +47,24 @@ Arsenal팀에 관한 정보, 경기 일정, 경기 결과 등을 확인 할 수 
 <br/>
 <br/>
 
+# 📱 기능 시현
+<table>
+  <thead>
+    <tr>
+      <th align="center">Home</th>
+      <th align="center">Players</th>
+      <th align="center">Matches</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img width="240px" src="https://github.com/yjin-01/gooner/blob/main/public/home.gif?raw=true" /></td>
+      <td align="center"><img width="240px"src="https://github.com/yjin-01/gooner/blob/main/public/player.gif?raw=true" /></td>
+      <td align="center"><img width="240px" src="https://github.com/yjin-01/gooner/blob/main/public/match02.gif?raw=true" /></td>
+    </tr>
+  </tbody>
+</table>
+
 # 회고
 
 # 🔗 시스템 아키텍쳐
